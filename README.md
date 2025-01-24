@@ -1,5 +1,6 @@
 # College-Management-System
-class Student():
+
+class Student(): 
     def __init__(self,studentid,name,age,percentage = 0):
         self.studentid = studentid
         self.name = name
